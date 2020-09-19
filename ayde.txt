@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>YOU </title>
+</head>
+
+<body>
+<table border="0" width="100%">
+<tr height=50 >
+         <td width="20%">  </td>
+         <td width="60%"> <font color=pink font face="Times New Roman" size="4"> Los jeans peruanos más vendidos. Comunícate al: +57 3225443919 / +57 3102447459 / +57 3147245333</td>
+         <td width="15%">  </td>      
+</tr>
+</table>
+<center>
+<table border="0" width="100%">
+<tr height=50>
+          
+          <td width="5%">  </td>
+          <td width="10"> <font color=pink font face="Brush Script MT" size="7">  you </td>
+          <td width="10%"> <font color=pink font face="Times New Roman" size="4"> <a href="file:///D:/web%206/index.html">  inicio </a> </td>
+          <td width="10%"> <font color=pink font face="Times New Roman" size="4"> <a href="https://www.gamarra.com.pe/">mayoriasta</a></td>
+          <td width="7"> <font color=pink font face="Times New Roman" size="4"> <a href="https://essenceofwoman20.blogspot.com/">  blog </a></td>
+          
+          <td width="10%"> <font color=pink font face="Times New Roman" size="4"><a href="http://www.findglocal.com/PE/Lima/1408656832711785/You-Light-Jeans">catalogo</a> </td>
+          <td width="10%"> <font color=pink font face="Times New Roman" size="4"> <a href="https://web.facebook.com/you.lightjeans/?_rdc=1&_rdr">contactenos</a> </td>
+          <td width="10%"> <font color=pink font face="Times New Roman" size="4"><select>  
+      <option> productos </option>
+      <option> JEANS LEVANTA COLA </option>
+      <option> BLUSON </option>
+      <option> BODYS </option>
+      <option> OVEROLES </option>
+      <option> CHAQUETAS </option>
+      <option> PANTALONES </option>
+      <option> SHORTS</option>
+</select>
+
+
+ </td>
+          <td width="7%"><div class="buscar" >
+                 <input type="text" calss="Buscar" placeholder="Buscador"  class="estilo2"  ></td>   </td>
+          <td width="5%"> </td>
+         
+          
+</tr>
+</table>
+
+<table border="0" width="100%">
+<tr >
+         
+          
+          <td width="10%"></td>
+          <td><a href="https://www.google.com/search?q=you+light+jeans&sxsrf=ALeKk03bgSCs8UBjYMgiqOM7e4nAALpkAw:1600547841980&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2tMSsifbrAhWYGLkGHdHjCMcQ_AUoAXoECA4QAw&biw=1517&bih=675#imgrc=XKYI7N9bN0i9WM"> <img src="imagen\you3.jpg" width="600" height="400"> </a></td>
+
+          <td> <img src="imagen\ayde.jpg" width="400" height="400"></td>
+          
+
+</tr>
+</table>
+<table border="0" width="100%">
+<tr height=50>
+         <td width="5%"></td>
+         <td width="35%"><font color=pink font face="Times New Roman" size="6"> compra segura</td>
+         <td width="35%"><font color=pink font face="Times New Roman" size="6"> calida de respaldo</td>
+         <td width="20%"><font color=pink font face="Times New Roman" size="6"> envios nacionales</td>
+</tr>
+<center>
+<table border="0" width="80%">
+<tr>
+         
+         <td> <img src="imagen\you.png"> </td>
+
+</tr>
+</table>
+<table border="0"  width="100%"> 
+<tr>
+       <td width="5%"> </td>
+       <td width="40%" align="center"> <img src="imagen\you5.jpg"> </td>
+       <td rowspan="2"> <embed src="imagen\video.mp4" width="400" height="400"> </td>
+</tr>
+<tr>
+      <td width="10%"> </td>
+
+      <td width="30%>  </td>
+      <td width="40%> <font color=pink font face="Agency FB" size="5">you una Colección pensada en Tí y en tus Deseos de verte hermosa cuidamos 
+<br>tu esencia de sentirte Única. Podrás Cuidarte y al tiempo verte Hermosa.</td>    
+</tr>
+</table>
+<p>&nbsp;</p>
+<table border="0" width="100%">
+<tr height=50>
+     <td width="3%"> </td>
+     <td width="15%"> <font color=pink font face="Times New Roman" size="3">NUESTRAS POLÍTICAS </td>
+     <td width="15%"> <font color=pink font face="Times New Roman" size="3">POLÍTICA DE CAMBIOS </td>
+     <td width="15%"> <font color=pink font face="Times New Roman" size="3">POLÍTICA DE GARANTÍAS </td>
+     <td width="15%"> <font color=pink font face="Times New Roman" size="3">POLÍTICAS DE PRIVACIDAD </td>
+     <td width="15%"> <font color=pink font face="Times New Roman" size="3">POLÍTICA DE ENVÍOS</td>
+     <td width="10%"> <a href="https://web.facebook.com/aydeVQ.98/"> <img src="imagen\fb.png" width="50" height="50"> </a></td>
+
+</tr>
+</table>
+
+<table>
+<tr height=50>
+     <td width="5%"> </td>
+     <td width="80%"><font color=pink font face="Times New Roman" size="4"> © 2020 - 2021  You Jeans. Todos los derechos reservados, hecho con el ♥ por miriam ayde vilca quispe </td>
+     <td width="5%"> </td>
+</tr>
+
+</table>
+
+</table>
+</body>
+
+</html>
